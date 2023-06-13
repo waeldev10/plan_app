@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/plan_app/static/js/main.f31eaccd.js",
+    "index.html": "/plan_app/index.html",
+    "main.f31eaccd.js.map": "/plan_app/static/js/main.f31eaccd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f31eaccd.js"
+  ]
+}
