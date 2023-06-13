@@ -25,7 +25,7 @@ const App = () =>{
 
        <>
 
-            <BrowserRouter>
+            <BrowserRouter basename={'/plan_app'}>
                 <Routes>
                     <Route path="/"  element={<Home />}/>
                     <Route path="/lang/"  element={<AllLangs />}/>
